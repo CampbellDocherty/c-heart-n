@@ -9,7 +9,23 @@ body {
   overflow: hidden;
 }
 
+@font-face {
+  font-family: "mono";
+  src: local("mono"), url(./fonts/mono.ttf) format("truetype");
+}
+
 canvas {
   width: 100vw;
   height: 100vh;
+}
+
+.loadingclass {
+  font: "mono";
+  font-size: 16px;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
 }

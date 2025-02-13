@@ -94,11 +94,3 @@ function mousePressed() {
     index++;
   }
 }
-
-function touchEnded() {
-  const img = loaded[index];
-  if (img) {
-    placed.push({ ...img, x: mouseX, y: mouseY });
-    index++;
-  }
-}
