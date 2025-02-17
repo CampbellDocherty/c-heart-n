@@ -14,7 +14,7 @@ function getImages() {
       description: "Babies!",
     },
     {
-      src: "images/bad-at-padel.png",
+      src: "images/bad-at-padel.jpg",
       description: "2024-12-31 - N is bad at all sports 😝",
     },
     {
@@ -34,15 +34,15 @@ function getImages() {
       description: "2024-08-07 - 3rd date C beats N as per",
     },
     {
-      src: "images/first-day-school.png",
+      src: "images/first-day-school.jpg",
       description: "2024-09-18 - Dads accompany N to school",
     },
     {
-      src: "images/first-plait.png",
+      src: "images/first-plait.jpg",
       description: "2024-12-17 - C plaited N's hair really well",
     },
     {
-      src: "images/flirting-neema.png",
+      src: "images/flirting-neema.jpg",
       description: "2024-07-17 - N flirted with C, so he knew she liked him",
     },
     {
@@ -82,11 +82,11 @@ function getImages() {
       description: "2025-01-16 - Thermal love at Air Afrique",
     },
     {
-      src: "images/toebed.png",
+      src: "images/toebed.jpg",
       description: "2024-09-15 - Toe bed at NYC book fair",
     },
     {
-      src: "images/unamed-road.png",
+      src: "images/unamed-road.jpg",
       description: "2025-01-03 - Unamed road",
       more: "(2 hours before missed flight)",
     },
